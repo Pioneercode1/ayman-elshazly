@@ -1,0 +1,6 @@
+<svg width="800" height="400" viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
+    <rect width="800" height="400" fill="#e0e0e0"/>
+    <text x="50%" y="50%" font-family="Arial" font-size="24" fill="#666" text-anchor="middle" dy=".3em">Map Placeholder</text>
+    <path d="M400 150 L420 190 L400 230 L380 190 Z" fill="#D32F2F" />
+    <circle cx="400" cy="190" r="10" fill="#fff"/>
+</svg>
